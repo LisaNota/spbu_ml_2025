@@ -2,13 +2,13 @@
 Максимум баллов - 20. 
 Вам даны следующие датасеты:
 1. https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training
-3. https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
-4. https://www.kaggle.com/datasets/abhaysharma38/beer-rating-reviews
-5. https://www.kaggle.com/datasets/sebastianwillmann/beverage-sales/data
-6. https://www.kaggle.com/datasets/shivamb/netflix-shows
-7. https://www.kaggle.com/datasets/tamber/steam-video-games
-8. https://www.kaggle.com/datasets/aparnashastry/building-permit-applications-data
-9. https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings
+2. https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
+3. https://www.kaggle.com/datasets/abhaysharma38/beer-rating-reviews
+4. https://www.kaggle.com/datasets/sebastianwillmann/beverage-sales/data
+5. https://www.kaggle.com/datasets/shivamb/netflix-shows
+6. https://www.kaggle.com/datasets/tamber/steam-video-games
+7. https://www.kaggle.com/datasets/aparnashastry/building-permit-applications-data
+8. https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings
 
 Ваш датасет: `N mod k`, N - ваш номер в таблице, k - число датасетов. 
 Если получили 0 - берете последний.
