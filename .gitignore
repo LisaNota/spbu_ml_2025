@@ -2,3 +2,8 @@ data/
 .env
 venv/
 netflix-shows/
+__pycache__/
+*.zip
+*.html
+my_homeworks/src/test.py
+my_homeworks/competition_1.ipynb
