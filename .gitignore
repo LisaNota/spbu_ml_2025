@@ -6,4 +6,5 @@ __pycache__/
 *.zip
 *.html
 my_homeworks/src/test.py
-my_homeworks/competition_1.ipynb
+*.csv
+competitions/catboost_info/
